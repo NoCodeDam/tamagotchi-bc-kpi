@@ -1,0 +1,1484 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Tamagotchi BC KPI">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1743596648 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tamagotchi events</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama Event Queue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1743596648 - Field 3965799327 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BC event</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama Event Queue - Field BC Event - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1743596648 - Field 3487400959 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Care</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama Event Queue - Field Care - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1743596648 - Field 3016322129 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Completed UTC</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama Event Queue - Field Completed UTC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1743596648 - Field 968786891 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Generation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama Event Queue - Field Generation No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1743596648 - Field 886811963 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Recorded</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama Event Queue - Field Occurred UTC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1743596648 - Field 472338107 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Result</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama Event Queue - Field Result - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1743596648 - Field 3014885516 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sequence No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama Event Queue - Field Sequence No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1743596648 - Field 970445055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source SystemId</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama Event Queue - Field Source SystemId - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1743596648 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama Event Queue - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1743596648 - Field 513339096 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pending,Running,Completed,Skipped</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama Event Queue - Field Status - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 2374110487 - Field 1163056561 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AL Life Snapshot</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama Life Archive - Field AL Life Snapshot - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2374110487 - Field 1030570352 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Archived UTC</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama Life Archive - Field Archived UTC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2374110487 - Field 3471291899 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Care Snapshot</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama Life Archive - Field Care Snapshot - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2374110487 - Field 3354602958 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CPU Snapshot</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama Life Archive - Field CPU Snapshot - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2374110487 - Field 2336082109 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Epoch UTC</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama Life Archive - Field Epoch UTC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2374110487 - Field 968786891 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Generation No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama Life Archive - Field Generation No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2374110487 - Field 2458088773 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ROM SHA256</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama Life Archive - Field ROM SHA256 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2602082242 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tamagotchi Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2602082242 - Field 4042923726 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BC time zone</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama Setup - Field BC Time Zone - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2602082242 - Field 3615426755 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Event: cleaning</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama Setup - Field Clean Event - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2602082242 - Field 935163532 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Clock: hour</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama Setup - Field Clock Hour - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2602082242 - Field 409928594 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Clock: minute</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama Setup - Field Clock Minute - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2602082242 - Field 230635890 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Event: discipline</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama Setup - Field Discipline Event - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2602082242 - Field 2891538263 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enabled</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama Setup - Field Enabled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2602082242 - Field 968786891 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Generation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama Setup - Field Generation No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2602082242 - Field 3199844143 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Event: light off</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama Setup - Field Light Off Event - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2602082242 - Field 2636387485 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Event: light on</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama Setup - Field Light On Event - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2602082242 - Field 1086888517 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CPU steps per update</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama Setup - Field Max Steps Per Update - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2602082242 - Field 3281748483 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Event: meal</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama Setup - Field Meal Event - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2602082242 - Field 3429482412 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Event: medicine</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama Setup - Field Medicine Event - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2602082242 - Field 3093301979 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Original ROM</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama Setup - Field Original ROM - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2602082242 - Field 1114600804 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Event: play</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama Setup - Field Play Event - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2602082242 - Field 2241842009 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Play attention sound</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama Setup - Field Play Sound - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2602082242 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2602082242 - Field 2458088773 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Original program: SHA-256</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama Setup - Field ROM SHA256 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2602082242 - Field 1254532728 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cabinet</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama Setup - Field Shell Design - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2602082242 - Field 3981295612 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Event: snack</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama Setup - Field Snack Event - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1734701170 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tamagotchi state</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama State - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1734701170 - Field 1163056561 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AL Life Snapshot</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama State - Field AL Life Snapshot - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1734701170 - Field 3471291899 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Care Snapshot</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama State - Field Care Snapshot - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1734701170 - Field 3354602958 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CPU Snapshot</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama State - Field CPU Snapshot - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1734701170 - Field 1223427538 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Died UTC</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama State - Field Died UTC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1734701170 - Field 3196452109 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Emulated Ticks</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama State - Field Emulated Ticks - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1734701170 - Field 2336082109 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Epoch UTC</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama State - Field Epoch UTC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1734701170 - Field 968786891 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Generation No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama State - Field Generation No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1734701170 - Field 747349978 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Background UTC</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama State - Field Last Background UTC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1734701170 - Field 4103150242 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Care Result</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama State - Field Last Care Result - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1734701170 - Field 711911067 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Update UTC</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama State - Field Last Update UTC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1734701170 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama State - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1734701170 - Field 2718661101 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Revision</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama State - Field Revision - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1734701170 - Field 4193720271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>State Version</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Tama State - Field State Version - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1207915243 - NamedType 3569966352" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tamagotchi: background life</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Background Life - NamedType DescriptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1207915243 - NamedType 2571673033" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Not created</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Background Life - NamedType NotCreatedLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2684395414 - NamedType 3916856562" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Apply customer entries with Apply Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Care Guidance - NamedType ApplyLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2684395414 - NamedType 1269222352" size-unit="char" translate="yes" xml:space="preserve">
+          <source>I am asleep. Food, play and medicine wait until I wake up.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Care Guidance - NamedType AsleepLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2684395414 - NamedType 308753192" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post a bank reconciliation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Care Guidance - NamedType BankLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2684395414 - NamedType 920614742" size-unit="char" translate="yes" xml:space="preserve">
+          <source>THIS IS A BIOHAZARD! %1. Before it gets any worse!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Care Guidance - NamedType CleanEmptyLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2684395414 - NamedType 3476089432" size-unit="char" translate="yes" xml:space="preserve">
+          <source>All clean. Next cleanup: %1.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Care Guidance - NamedType CleanFullLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2684395414 - NamedType 1882106949" size-unit="char" translate="yes" xml:space="preserve">
+          <source>I am wading through filth! %1.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Care Guidance - NamedType CleanLowLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2684395414 - NamedType 3057424198" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This place is getting disgusting! %1.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Care Guidance - NamedType CleanMediumLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2684395414 - NamedType 2158736957" size-unit="char" translate="yes" xml:space="preserve">
+          <source>A small mess needs cleaning. %1.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Care Guidance - NamedType CleanMildLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2684395414 - NamedType 2192553353" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post a sales credit memo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Care Guidance - NamedType CreditLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2684395414 - NamedType 4147068722" size-unit="char" translate="yes" xml:space="preserve">
+          <source>I have died. Business events cannot revive me. Start a new egg in Setup.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Care Guidance - NamedType DeadLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2684395414 - NamedType 880711966" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Care collection is off. Enable it in Setup to let BC events care for me.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Care Guidance - NamedType DisabledLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2684395414 - NamedType 3206768676" size-unit="char" translate="yes" xml:space="preserve">
+          <source>I am calling for discipline. %1 before I stop listening!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Care Guidance - NamedType DisciplineLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2684395414 - NamedType 2808143865" size-unit="char" translate="yes" xml:space="preserve">
+          <source>I am still an egg. I hatch after five minutes; care starts then.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Care Guidance - NamedType EggLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2684395414 - NamedType 3008478975" size-unit="char" translate="yes" xml:space="preserve">
+          <source>I AM STARVING! %1. NOW!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Care Guidance - NamedType FoodEmptyLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2684395414 - NamedType 890716101" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Food is full. My next meal comes when you: %1.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Care Guidance - NamedType FoodFullLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2684395414 - NamedType 3541095616" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FEED ME! There is only one food heart left. %1.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Care Guidance - NamedType FoodLowLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2684395414 - NamedType 2178968519" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Getting hungry! %1.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Care Guidance - NamedType FoodMediumLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2684395414 - NamedType 3522979600" size-unit="char" translate="yes" xml:space="preserve">
+          <source>A little hungry. %1.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Care Guidance - NamedType FoodMildLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2684395414 - NamedType 1668774793" size-unit="char" translate="yes" xml:space="preserve">
+          <source>I AM MISERABLE! %1. Stop watching and give me some joy!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Care Guidance - NamedType HappyEmptyLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2684395414 - NamedType 13855419" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Happiness is full. Keep it that way: %1.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Care Guidance - NamedType HappyFullLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2684395414 - NamedType 1399041546" size-unit="char" translate="yes" xml:space="preserve">
+          <source>I am painfully lonely. %1. Please!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Care Guidance - NamedType HappyLowLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2684395414 - NamedType 1772995377" size-unit="char" translate="yes" xml:space="preserve">
+          <source>I need some fun! %1.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Care Guidance - NamedType HappyMediumLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2684395414 - NamedType 580982650" size-unit="char" translate="yes" xml:space="preserve">
+          <source>A little bored. %1.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Care Guidance - NamedType HappyMildLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2684395414 - NamedType 833999668" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The background job is %1. Check Job Queue Entries; viewing does not restart it.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Care Guidance - NamedType HeldJobLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2684395414 - NamedType 2813721509" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post a sales invoice</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Care Guidance - NamedType InvoiceLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2684395414 - NamedType 4015473068" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Latest: %1 → %2. %3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Care Guidance - NamedType LastLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2684395414 - NamedType 1398270180" size-unit="char" translate="yes" xml:space="preserve">
+          <source>I need darkness to sleep. %1.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Care Guidance - NamedType LightsOffLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2684395414 - NamedType 2853016146" size-unit="char" translate="yes" xml:space="preserve">
+          <source>I am awake but the screen is dark. %1.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Care Guidance - NamedType LightsOnLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2684395414 - NamedType 819508484" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TURN THE LIGHT OFF! I am trying to sleep. %1.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Care Guidance - NamedType LightsUrgentLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2684395414 - NamedType 3189804346" size-unit="char" translate="yes" xml:space="preserve">
+          <source>I am sick. %1. Medicine doses still needed: %2.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Care Guidance - NamedType MedicineLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2684395414 - NamedType 916099667" size-unit="char" translate="yes" xml:space="preserve">
+          <source>I AM SERIOUSLY ILL! %1. I still need %2 doses!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Care Guidance - NamedType MedicineUrgentLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2684395414 - NamedType 13876576" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No background job exists. Use Create / restart background job in Setup.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Care Guidance - NamedType NoJobLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2684395414 - NamedType 2012627065" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Choose an event for %1 in Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Care Guidance - NamedType NoMappingLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2684395414 - NamedType 1257525004" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post a customer payment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Care Guidance - NamedType PaymentLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2684395414 - NamedType 3424388735" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Waiting to be processed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Care Guidance - NamedType PendingLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2684395414 - NamedType 2232541515" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post a purchase invoice</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Care Guidance - NamedType PurchaseLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2684395414 - NamedType 127866817" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Manually release a purchase order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Care Guidance - NamedType PurchReleaseLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2684395414 - NamedType 180623962" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Care attempts received: %1 · accepted: %2 · refused: %3 · pending: %4</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Care Guidance - NamedType ReceiptLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2684395414 - NamedType 3436790389" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Manually release a sales order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Care Guidance - NamedType SalesReleaseLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2284650124 - NamedType 3422105491" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unsupported Tamagotchi state version. An explicit migration is required.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Company Engine - NamedType InvalidVersionLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2284650124 - NamedType 3766691675" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This company still has the old ROM prototype. Use New egg to archive it and start the AL life.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Company Engine - NamedType LegacyLifeLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2284650124 - NamedType 327741515" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open Tamagotchi Setup.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Company Engine - NamedType MissingSetupLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2284650124 - NamedType 2431172187" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Tamagotchi state is missing. Do not reset it automatically.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Company Engine - NamedType MissingStateLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2284650124 - NamedType 962440929" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start the first egg in Tamagotchi Setup.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Company Engine - NamedType StartEggLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2620726023 - NamedType 897653619" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start an egg first.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama Setup Management - NamedType UserMessage1Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 915588842" size-unit="char" translate="yes" xml:space="preserve">
+          <source>active</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType ActiveLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 3487798975" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The pet is asleep; this care action must wait.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType AsleepResultLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 1469880425" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The pet is being cared for …</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType BusyLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 4204697288" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Care for the pet by working in BC.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType CareHintLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 779544630" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Catching up on time while the Role Center was closed …</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType CatchingUpLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 1917808569" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Already clean; there were no droppings to remove.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType CleanLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 1211085723" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cleanliness</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType CleanlinessLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 241708881" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1: P1 care action completed.</source>
+          <note from="Developer" annotates="general" priority="2">%1 is the translated care action caption.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType CompletedLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 4147068722" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The pet has died. Start a new egg in Setup when you are ready.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType DeadLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 325914241" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The pet has died; care cannot revive it.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType DeadResultLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 2808143865" size-unit="char" translate="yes" xml:space="preserve">
+          <source>egg</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType EggLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 3314053834" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The egg has not hatched; care must wait.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType EggResultLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 3330659556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enable sound</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType EnableSoundLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 890716101" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Food is already full; no meal was needed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType FoodFullLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 13855419" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Happiness is already full; no snack was needed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType HappyFullLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 3049203374" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Happiness</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType HappyLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 1911378105" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The pet is healthy; no medicine was needed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType HealthyLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 638946179" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Food</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType Icon0Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 3344908132" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Light</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType Icon1Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 1614003077" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Play</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType Icon2Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 761349414" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Medicine</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType Icon3Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 227106239" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cleaning</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType Icon4Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 2253487648" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType Icon5Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 4096392641" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discipline</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType Icon6Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 3964896226" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attention</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType Icon7Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 4158484835" size-unit="char" translate="yes" xml:space="preserve">
+          <source>P1 pet LCD</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType LcdLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 4111233785" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Food</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType MealLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 360991779" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No discipline call was pending.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType NoCallLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 2969812690" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Opening the company's Tamagotchi …</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType OpeningLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 953218120" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The pet refused the care action (egg, sleep, illness, full meter or death).</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType RefusedLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 2611575469" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The pet is an egg or has died; no care was performed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType Result0Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 1375058446" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The original program is busy; the menu could not be closed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType Result1Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 3037256363" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The original clock could not be closed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType Result2Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 1800739340" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The original program did not accept the menu selection (sleep, animation or end of life).</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType Result3Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 1478578281" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Care was attempted, but the original program remained busy.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType Result4Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 963218506" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The menu could not be closed to set the clock.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType Result5Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 1904259175" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The original clock setting did not accept the hours.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType Result6Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 709318856" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The original clock setting did not accept the minutes.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType Result7Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 1066738341" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The event belongs to an earlier egg.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType Result8Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 935241926" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Care interrupted by an explicit new egg.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType Result9Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 3538117874" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Setup could not be opened.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType SetupFailedLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 2999628943" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType SetupLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 2770806304" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purple / pink</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType Shell0Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 744424895" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Blue / yellow</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType Shell1Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 187247586" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pink / yellow</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType Shell2Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 318744001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>White / black</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType Shell3Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 3862226788" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Blue / silver</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType Shell4Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 1156264835" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rainbow</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType Shell5Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 1278668070" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Red glitter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType Shell6Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 2131321733" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mermaid</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType Shell7Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 272772896" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The three buttons are decorative.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType ShellDecorativeLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 507112614" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cabinet:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType ShellLabelLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 4152422892" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The pet is sick and needs medicine.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType SickLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 3914722955" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The pet needs medicine before it can eat or play.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType SickResultLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 2977216367" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The pet is sleeping.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType SleepingLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 311713028" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sound on</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType SoundOnLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 3713773700" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tamagotchi could not be updated.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType UpdateFailedLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2871535159 - NamedType 2844867870" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Weight</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Tama User Interface - NamedType WeightLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Accountant with Tamagotchi</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 2389485278 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chart of Accounts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action Accounts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 144595727 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank Accounts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action Banks - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 3606140129 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action Customers - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 2199882250 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Incoming Documents</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action Incoming - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 502423214 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Invoices</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action Invoices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 1823430260 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Invoices</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action Purchases - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 713531721 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendors</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action Vendors - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 2451963715 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Balance Sheet</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action BalanceSheet - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 1274065110 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank Detail Trial Balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action BankTrialBalance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 3611674994 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Income Statement</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action IncomeStatement - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 880783137 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Aged Accounts Payable</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action PayablesReport - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 4135559395 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Aged Accounts Receivable</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action ReceivablesReport - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 2355046064 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Trial Balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action TrialBalance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 661859261 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fixed Assets</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action Assets - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 1086485798 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fixed Asset Journals</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action AssetJournals - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 1464838095 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fixed Assets</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action FixedAssets - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 3594318390 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash Management</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action CashManagement - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 2389892164 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank Account Statements</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action BankStatements - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 2392487212 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash Flow Forecasts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action Forecasts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 3113496626 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Reconciliation Journals</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action PaymentReconciliations - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 1165509248 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank Reconciliations</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action Reconciliations - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 2178588074 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tamagotchi</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action CompanyPet - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 3661919152 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Queue Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action Jobs - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 3975592165 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Care History</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action PetHistory - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 1521516274 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tamagotchi Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action PetSetup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 17419004 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action Finance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 2901188496 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Analysis Views</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action AnalysisViews - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 361439946 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>G/L Budgets</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action Budgets - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 2173385693 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimensions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action Dimensions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 2327069496 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Financial Reports</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action FinancialReports - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 3421975368 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General Journals</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action GeneralJournals - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 2723728362 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Accounting Periods</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action Periods - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 3890688509 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Recurring General Journals</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action RecurringJournals - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 3990446950 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>G/L Registers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action Registers - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 2816414919 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Statements</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action VATStatements - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 2428880779 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payables</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action Payables - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 1081232748 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Journals</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action PaymentJournals - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 1942340056 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Purchase Credit Memos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action PostedPurchaseCredits - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 2305478715 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Purchase Invoices</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action PostedPurchases - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 101427331 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Journals</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action PurchaseJournals - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 2827062946 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Orders</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action PurchaseOrders - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 2985358938 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Ledger Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action VendorEntries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 646561001 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receivables</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action Receivables - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 3769564450 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash Receipt Journals</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action CashReceipts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 128313042 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Ledger Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action CustomerEntries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 3570774505 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Sales Credit Memos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action PostedCredits - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 2332977709 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Sales Invoices</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action PostedInvoices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 2685059554 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Credit Memos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action SalesCredits - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 561664318 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Journals</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action SalesJournals - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997558888 - Action 1159415319 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Orders</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Accountant Role Center - Action SalesOrders - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2587680059 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tamagotchi Care History</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Event Log - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2587680059 - Control 162486854 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The selected BC event.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Event Log - Control BCEventName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2587680059 - Control 3487400959 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The care action triggered by the event.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Event Log - Control Care - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2587680059 - Control 563247746 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The egg to which the event belongs.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Event Log - Control Generation - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2587680059 - Control 2415002557 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>When the BC event was recorded.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Event Log - Control Occurred - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2587680059 - Control 472338107 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>How the pet handled the care attempt.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Event Log - Control Result - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2587680059 - Control 472338107 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Result</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Event Log - Control Result - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2587680059 - Control 513339096 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pending, running, completed or skipped.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Event Log - Control Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 925506686 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company Tamagotchi</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Pet Viewer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3160956315 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tamagotchi BC KPI</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Role Center Part - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tamagotchi Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - NamedType 897653619" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start a new egg and end the current life?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - NamedType UserMessage1Lbl</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Control 3610787450 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Appearance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Control Appearance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Control 319900352 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select a cabinet for the Role Center. Colours and the three decorative buttons only change the appearance; all cabinets use the same P1 program and the same pet.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Control ShellDesign - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Control 1210084596 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Background life</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Control BackgroundLife - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Control 2205926325 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BC updates the pet through the recurring job, even when nobody is online.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Control JobStatus - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Control 2205926325 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Control JobStatus - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Control 1421193296 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last successful background update. Check Job Queue Entries if this stops advancing.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Control LastBackground - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Control 1421193296 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last background update</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Control LastBackground - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Control 3833673254 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BC events replace the care buttons</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Control CareEvents - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Control 3628862563 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The selected BC event triggers the cleaning action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Control CleanEvent - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Control 2105949197 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The AL event subscribed to by the extension.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Control CleanPublisher - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Control 2105949197 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Standard event: cleaning</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Control CleanPublisher - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Control 697832266 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The selected BC event uses the discipline function.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Control DisciplineEvent - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Control 3449263264 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The AL event subscribed to by the extension.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Control DisciplinePublisher - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Control 3449263264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Standard event: discipline</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Control DisciplinePublisher - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Control 891256951 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The selected BC event turns the light off.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Control LightOffEvent - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Control 2160206113 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The AL event subscribed to by the extension.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Control LightOffPublisher - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Control 2160206113 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Standard event: light off</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Control LightOffPublisher - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Control 3001336485 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The selected BC event turns the light on.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Control LightOnEvent - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Control 378723947 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The AL event subscribed to by the extension.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Control LightOnPublisher - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Control 378723947 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Standard event: light on</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Control LightOnPublisher - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Control 266827939 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The selected BC event gives one meal through the pet menu.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Control MealEvent - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Control 2804177997 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The AL event subscribed to by the extension.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Control MealPublisher - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Control 2804177997 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Standard event: meal</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Control MealPublisher - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Control 2460934804 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The selected BC event gives one dose of medicine. The pet may need several doses.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Control MedicineEvent - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Control 3639604910 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The AL event subscribed to by the extension.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Control MedicinePublisher - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Control 3639604910 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Standard event: medicine</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Control MedicinePublisher - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Control 1821866092 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The selected BC event plays the five-round left/right guessing game. The pet determines the result.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Control PlayEvent - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Control 1737948390 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The AL event subscribed to by the extension.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Control PlayPublisher - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Control 1737948390 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Standard event: play</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Control PlayPublisher - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Control 1566814884 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The selected BC event gives one snack, affecting happiness and weight.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Control SnackEvent - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Control 2919524798 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The AL event subscribed to by the extension.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Control SnackPublisher - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Control 2919524798 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Standard event: snack</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Control SnackPublisher - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Control 2178588074 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company Tamagotchi</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Control CompanyPet - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Control 2891538263 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Collect the selected BC care events. The pet continues to age in the background even when this is disabled.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Control Enabled - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Control 563247746 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The current egg. All users in the company care for the same pet.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Control Generation - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Control 3521068307 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Device settings</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Control OriginalDevice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Control 2180811670 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The shared clock uses BC time and the time zone captured when the company enables the pet. No manual hour or minute setting is needed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Control BCTimeZone - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Control 3878100433 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Allow attention sounds in the Role Center. Your browser may require a click before playing sound.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Control PlaySound - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Action 1298097671 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create the company life job or restart the existing job. Installation and New egg do not create jobs. The pet is not reset.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Action CreateLifeJob - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Action 1298097671 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create / restart background job</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Action CreateLifeJob - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Action 3127086660 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the recorded BC events and the care actions attempted by the pet.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Action EventLog - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Action 3127086660 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Care history</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Action EventLog - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Action 2169482051 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start a new egg in the company. The previous life and event log are preserved.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Action NewEgg - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Action 2169482051 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New egg / reset</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Action NewEgg - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Action 3492985448 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the company's Tamagotchi.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Action ViewPet - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2602082242 - Action 3492985448 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View Tamagotchi</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Tama Setup - Action ViewPet - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Profile 1058040336 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Accountant with Tamagotchi</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Profile TAMAGOTCHI BC KPI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3213515320 - EnumValue 4235625022 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank reconciliation posted</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Tama BC Event - EnumValue BankStatementPosted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3213515320 - EnumValue 2191810898 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer entries applied (Apply Entries)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Tama BC Event - EnumValue CustomerApplication - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3213515320 - EnumValue 425523874 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer payment posted</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Tama BC Event - EnumValue CustomerPayment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3213515320 - EnumValue 1864907812 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>None</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Tama BC Event - EnumValue Disabled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3213515320 - EnumValue 783370822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase invoice posted</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Tama BC Event - EnumValue PurchaseInvoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3213515320 - EnumValue 1608876828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase order manually released</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Tama BC Event - EnumValue PurchaseOrderReleased - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3213515320 - EnumValue 4275230785 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales credit memo posted</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Tama BC Event - EnumValue SalesCreditMemo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3213515320 - EnumValue 927944371 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales invoice posted</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Tama BC Event - EnumValue SalesInvoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3213515320 - EnumValue 740654621 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales order manually released</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Tama BC Event - EnumValue SalesOrderReleased - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3362108408 - EnumValue 2326106071 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cleaning</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Tama Care - EnumValue Clean - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3362108408 - EnumValue 3272998014 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discipline</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Tama Care - EnumValue Discipline - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3362108408 - EnumValue 1141842508 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set original clock</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Tama Care - EnumValue InitializeClock - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3362108408 - EnumValue 4100182051 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Light off</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Tama Care - EnumValue LightOff - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3362108408 - EnumValue 692106793 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Light on</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Tama Care - EnumValue LightOn - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3362108408 - EnumValue 909242519 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Meal</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Tama Care - EnumValue Meal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3362108408 - EnumValue 1900256096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Medicine</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Tama Care - EnumValue Medicine - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3362108408 - EnumValue 1694101736 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Play</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Tama Care - EnumValue Play - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3362108408 - EnumValue 3463648560 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Snack</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Tama Care - EnumValue Snack - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1728453439 - EnumValue 3677128155 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Blue / silver</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Tama Shell Design - EnumValue BlueSilver - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1728453439 - EnumValue 802048662 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Blue / yellow</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Tama Shell Design - EnumValue BlueYellow - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1728453439 - EnumValue 282125845 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mermaid</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Tama Shell Design - EnumValue Mermaid - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1728453439 - EnumValue 239703100 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pink / yellow</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Tama Shell Design - EnumValue PinkYellow - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1728453439 - EnumValue 1507784774 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purple / pink</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Tama Shell Design - EnumValue PurplePink - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1728453439 - EnumValue 2833643250 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rainbow</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Tama Shell Design - EnumValue Rainbow - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1728453439 - EnumValue 813893306 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Red glitter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Tama Shell Design - EnumValue RedGlitter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1728453439 - EnumValue 1241273812 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>White / black</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Tama Shell Design - EnumValue WhiteBlack - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 4147841970 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tamagotchi: setup and new egg</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet TAMA ADMIN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 545667812 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tamagotchi: view and care through BC</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet TAMA USER - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

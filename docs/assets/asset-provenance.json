@@ -1,0 +1,14 @@
+{
+  "generator": "extensions/bc-tamagotchi/tools/render_release_assets.cjs",
+  "data": "generated test frame; project AL character 5 bitmap",
+  "display": "current project control add-in and SVG cabinet source",
+  "files": [
+    "social-preview.png",
+    "pet-preview.png",
+    "cabinets.png"
+  ],
+  "bc_tenant_capture": false,
+  "original_firmware_or_photograph": false,
+  "network_requests": 0,
+  "errors": []
+}

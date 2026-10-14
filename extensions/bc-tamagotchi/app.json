@@ -1,0 +1,27 @@
+{
+  "id": "a2c683fb-c3bb-4b35-9791-f3f7f73f3a0f",
+  "name": "Tamagotchi BC KPI",
+  "publisher": "ERP Heritage",
+  "version": "0.3.0.0",
+  "brief": "Gamify your ERP. A KPI with a pulse.",
+  "description": "A company-shared P1-inspired virtual pet in AL. Post invoices to feed it; apply customer entries to clean it. Configurable BC events, real-time background life, eight cabinets, Danish and English.",
+  "platform": "27.0.0.0",
+  "application": "27.0.0.0",
+  "runtime": "16.0",
+  "target": "Cloud",
+  "idRanges": [
+    {
+      "from": 61200,
+      "to": 61249
+    }
+  ],
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "recorded_at": "2026-10-14T12:57:31.809731+00:00",
+  "version": "0.3.0.0",
+  "target": "BC 27.0 / Cloud / runtime 16.0",
+  "main": {
+    "package": "ERP Heritage_Tamagotchi BC KPI_0.3.0.0.app",
+    "sha256": "adb662822c97fc6936a1b44c81c4fb30136db13d90f83291ae9d461184adb032",
+    "log": "main-compile.txt",
+    "exit_code": 0,
+    "warnings": 0
+  },
+  "tests": {
+    "package": "ERP Heritage_Tamagotchi BC KPI Tests_0.3.0.0.app",
+    "sha256": "4caa30ab0a167575f905511f6b59170b9f9fa3b47602404a0883af1c9fc44ef0",
+    "log": "tests-compile.txt",
+    "exit_code": 0,
+    "warnings": 0
+  },
+  "symbols": [
+    {
+      "name": "Microsoft_Application_27.0.38460.40293.app",
+      "sha256": "bbd60e929976dc61ae76717fcea2de1af5917a8e667dd43c0e8bfdb3162b5621"
+    },
+    {
+      "name": "Microsoft_Base Application_27.0.38460.40293.app",
+      "sha256": "31ee78eb0231e86bafed0dd26f1e995560d133ca5230a5169eba0466cce0c38d"
+    },
+    {
+      "name": "Microsoft_Business Foundation_27.0.38460.40293.app",
+      "sha256": "f97c321c1fa1928cac5a279e9243cb97cd4f4fd738c75060cbd53d5b90cf9a0d"
+    },
+    {
+      "name": "Microsoft_System Application_27.0.38460.40293.app",
+      "sha256": "c6ee67d7c7909ac71ce9d0abf834fa14492a5a1a284b5c73ce4b5994d19fb3d1"
+    },
+    {
+      "name": "Microsoft_System_27.0.40210.0.app",
+      "sha256": "e8144c3abdf66cbb1255326930db74943dc876f7c7337f67f939567628040f4d"
+    }
+  ],
+  "source_files": [
+    {
+      "name": "extensions/bc-tamagotchi/Translations/Tamagotchi BC KPI.da-DK.xlf",
+      "sha256": "16c735a1f0c1b6049623cbc8884dad5f3ea812ec8e82c47f7629eaa7b4df01b5"
+    },
+    {
+      "name": "extensions/bc-tamagotchi/Translations/Tamagotchi BC KPI.en-GB.xlf",
+      "sha256": "a2de50ec630e23083b82590489203f1c40a683d2f28751a7a96e2bb815d6bcd7"
+    },
+    {
+      "name": "extensions/bc-tamagotchi/Translations/Tamagotchi BC KPI.g.xlf",
+      "sha256": "ad7d00be9d0de057495cf6da4f5f1a33a71f07620572464222d0b04dac69f567"
+    },
+    {
+      "name": "extensions/bc-tamagotchi/Translations/da-DK.json",
+      "sha256": "a6853e32298bcdff7dc198dab853f94984286c9104dc30ec060cd86f91cb0976"
+    },
+    {
+      "name": "extensions/bc-tamagotchi/app.json",
+      "sha256": "1021f7e015e2e3cbd9cfa4b191dc8a811acd0aeed7853c652046cff5ba1f84a7"
+    },
+    {
+      "name": "extensions/bc-tamagotchi/controladdin/shells.js",
+      "sha256": "dbfeaa0150ce037186aaaf010ae83aafb898cfe08f3fc5c029629bd233a8c8a5"
+    },
+    {
+      "name": "extensions/bc-tamagotchi/controladdin/startup.js",
+      "sha256": "53cac9a9522fde4d34abc7c79d8f4c351ff3447cce3663141c7afb99769c27f8"
+    },
+    {
+      "name": "extensions/bc-tamagotchi/controladdin/tama.css",
+      "sha256": "eb14d48bde39d6d0d7130a199cd2581f98e3b7f74bd548728d1ecf46e94bf692"
+    },
+    {
+      "name": "extensions/bc-tamagotchi/controladdin/tama.js",
+      "sha256": "0359630af8150a5a74278a9f48fd1fee286f9f560700434efc51e2754a07c2bf"
+    },
+    {
+      "name": "extensions/bc-tamagotchi/src/TamaDisplay.Codeunit.al",
+      "sha256": "ff645eb4332efe85c1306144d2264e45a452a1ae452c376b25c198cf9f467d96"
+    },
+    {
+      "name": "extensions/bc-tamagotchi/src/TamaEngine.Codeunit.al",
+      "sha256": "b1f9f1276a8da8969f9711821146a75f2b25229aab896d01b8f1fe7ce09fe914"
+    },
+    {
+      "name": "extensions/bc-tamagotchi/src/TamaEnums.al",
+      "sha256": "e74c96b5f80377ca1a897ac3d2285846e4f0fc37b96aea6de988ce9e34df0c6f"
+    },
+    {
+      "name": "extensions/bc-tamagotchi/src/TamaEvents.Codeunit.al",
+      "sha256": "a92fbda6cb324458c00707f331dada79ad372b0fafd6d7abf98f455e3e48de6f"
+    },
+    {
+      "name": "extensions/bc-tamagotchi/src/TamaGuidance.Codeunit.al",
+      "sha256": "7caaa775239d364b5b654dc7d05d9652c31a9761d6044a99830e53008fe7dfb1"
+    },
+    {
+      "name": "extensions/bc-tamagotchi/src/TamaJobs.Codeunit.al",
+      "sha256": "80cee831b73675d2d64e3481384b81d59d061b73d177702a525db4b2eb409019"
+    },
+    {
+      "name": "extensions/bc-tamagotchi/src/TamaLife.Codeunit.al",
+      "sha256": "d248c6c59345634728bc6cb920f8f3964a18d6ea4c7b8eb12c674050ad28d978"
+    },
+    {
+      "name": "extensions/bc-tamagotchi/src/TamaRoleCenter.al",
+      "sha256": "2b5a27ea10cd9572d94befe1ddcf885502bd44b702697fa68d2f3d2dd142e45e"
+    },
+    {
+      "name": "extensions/bc-tamagotchi/src/TamaRules.Codeunit.al",
+      "sha256": "b0f056176356c8fc906517a75a3eca1b6fe825e3077c1fb93c7135ca92f0c745"
+    },
+    {
+      "name": "extensions/bc-tamagotchi/src/TamaSetup.Page.al",
+      "sha256": "d864f8aecd0d13f7e36a5878c3cee0686d022caa0a269d8a7c46ce67e9b73442"
+    },
+    {
+      "name": "extensions/bc-tamagotchi/src/TamaSetupManagement.Codeunit.al",
+      "sha256": "a860f9223565086c80ef0ab6b1027269a9640b023ceea430c7d72fc2529f0305"
+    },
+    {
+      "name": "extensions/bc-tamagotchi/src/TamaTables.al",
+      "sha256": "5e2727a43dbc899fe5f839b1383eefc8e853641e2bcb41e098fb757b150b12bd"
+    },
+    {
+      "name": "extensions/bc-tamagotchi/src/TamaUI.Codeunit.al",
+      "sha256": "f4e03e4ddc6fdede344281b799b4acf6c3335de5a6b6484796773c18b55d3bae"
+    },
+    {
+      "name": "extensions/bc-tamagotchi/src/TamaUpgrade.Codeunit.al",
+      "sha256": "34e80d0195a9513220c163be0cbeeafa76be5c7963949655367dee0899a79e14"
+    },
+    {
+      "name": "extensions/bc-tamagotchi-tests/app.json",
+      "sha256": "adf9a17b9e1886e0cc12bf85ed1a2830c2255f959eb4d5d4f27acd51eb60ae5d"
+    },
+    {
+      "name": "extensions/bc-tamagotchi-tests/src/TamaAppearanceTests.Codeunit.al",
+      "sha256": "06f156b6aeaf23bb85414f20844439f773fa1503721057e1f707d546197f70f0"
+    },
+    {
+      "name": "extensions/bc-tamagotchi-tests/src/TamaEventsTests.Codeunit.al",
+      "sha256": "1673f776ab13e896552453964ce2a2d70bc2f253646373c1e8b9a04623ad936d"
+    },
+    {
+      "name": "extensions/bc-tamagotchi-tests/src/TamaGuidanceTests.Codeunit.al",
+      "sha256": "e6bb7c9c302c515b87083a402bc3a297c695cb6666f4f94aabc739402d610913"
+    },
+    {
+      "name": "extensions/bc-tamagotchi-tests/src/TamaJobSetupTests.Codeunit.al",
+      "sha256": "70617cde26ec58437f1f1d2ac64f1043105066e8e292f7d7e35133ff0b912ce7"
+    },
+    {
+      "name": "extensions/bc-tamagotchi-tests/src/TamaLanguageTests.Codeunit.al",
+      "sha256": "07bfa1076f32416d4039f82d4bf894a32735b0fafa2c77cf814e3614bd84e37a"
+    },
+    {
+      "name": "extensions/bc-tamagotchi-tests/src/TamaLifeTests.Codeunit.al",
+      "sha256": "ae9f823c015d71091d9c1af88c64dced9fe627eb56528ffd11095a59c84dfd90"
+    }
+  ],
+  "original_rom_present": false,
+  "retired_emulator_present": false,
+  "main_app_contains_test_objects": false,
+  "bc_tenant_tested": false,
+  "al_tests": {
+    "compiled": 25,
+    "executed": 0
+  },
+  "remote_published": false
+}
