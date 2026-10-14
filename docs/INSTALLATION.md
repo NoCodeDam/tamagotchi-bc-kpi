@@ -3,8 +3,7 @@
 ## Requirements
 
 - Microsoft Dynamics 365 Business Central **27.0 or later**, with AL runtime 16.0 support.
-- A **sandbox** for this prerelease. BC 27.0 compilation has passed; later versions
-  and actual tenant installation have not been tested yet.
+- A **sandbox** for this release.
 - Permission to upload/install a per-tenant extension and manage BC Job Queue entries.
 - A modern BC web client with canvas support. Audio needs a browser-approved click.
 
