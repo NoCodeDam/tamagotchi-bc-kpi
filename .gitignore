@@ -1,0 +1,13 @@
+.alpackages/
+.snapshots/
+__pycache__/
+*.pyc
+*.app
+build/
+dist/
+node_modules/
+.env
+.env.*
+*.pem
+*.pfx
+.vscode/launch.json
